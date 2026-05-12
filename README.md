@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0b3d2e,100:2c5364&height=280&section=header&text=Hi%20there,%20I'm%20Julia%20Strom%20👩‍💻&fontColor=e8f5e9&font=Pacifico&fontSize=35&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0b3d2e,100:2c5364&height=280&section=header&text=Hi,%30I'm%20Julia%20Strom%20👩‍💻&fontColor=e8f5e9&font=Pacifico&fontSize=35&animation=fadeIn&fontAlignY=35)
 
 <h1 align="center">💻 Frontend Developer</h1>
 
@@ -10,8 +10,7 @@ class Developer {
     this.coreTech = "React 🔥";
   }
 
-  skills = [
-    "React",
+  skills = [ "React",
     "JavaScript",
     "TypeScript",
     "Next.js",
@@ -48,7 +47,7 @@ class Developer {
     <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" alt="Email Me" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/юлия-стром-18751138a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
