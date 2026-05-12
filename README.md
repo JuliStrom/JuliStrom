@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0b3d2e,100:2c5364&height=280&section=header&text=Hi%20there,%20I'm%20Julia%20Strom%20👩‍💻fontColor=e8f5e9&font=Pacifico&fontSize=35&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0b3d2e,100:2c5364&height=280&section=header&text=Hi%20there,%20I'm%20Julia%20Strom%20👩‍💻&fontColor=e8f5e9&font=Pacifico&fontSize=35&animation=fadeIn&fontAlignY=35)
 
 <h1 align="center">💻 Frontend Developer</h1>
 
